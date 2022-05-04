@@ -1,0 +1,5 @@
+name: nTNoFire
+version: '${project.version}'
+main: n2k.ntnofire.nTNoFire
+api-version: 1.17
+authors: [ n2k ]
